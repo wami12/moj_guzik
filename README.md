@@ -1,3 +1,3 @@
 # moj_guzik
-Moj guzik - przykład.
+Moj guzik - przykład.<br>
 This is only a sample file.
