@@ -6,6 +6,7 @@
 // ---------------------------------------------------------------------------
 //- Przykład załadowania guzika do paska narzędzi
 //- przykład wyświetlenia komunikatu
+// zmiana jeszcze
 
 define([
     'base/js/namespace'
